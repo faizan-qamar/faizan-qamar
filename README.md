@@ -6,7 +6,7 @@
 
 *A backend dev learning to build scalable, secure systems :)*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio--link--here-000000?style=flat&logo=github&logoColor=white)]([your-portfolio-link-here](https://faizan-qamar.github.io/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio--link--here-000000?style=flat&logo=github&logoColor=white)](https://faizan-qamar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--profile--here-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-profile-link-here)
 [![Email](https://img.shields.io/badge/Email-your--email--here-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email-here)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Collaborate-darkgreen?style=flat)]()
