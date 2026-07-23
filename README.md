@@ -95,7 +95,7 @@ I am currently building two platforms used by **2,200+ community members** and d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmar004&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=faizan-qamar&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
