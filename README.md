@@ -85,7 +85,7 @@ While my primary interest is **Backend Development**, I also work with Frontend 
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔧 your-project-1](lms-system) | your-project-1-description-here | your-project-1-stack-here |
+| [LMS-SYSTEM](https://github.com/faizan-qamar/lms-system) | backend of lms-system |nest.js,mongodb|
 | [🔧 your-project-2](your-project-2-repo-link-here) | your-project-2-description-here | your-project-2-stack-here |
 | [🔧 your-project-3](your-project-3-repo-link-here) | your-project-3-description-here | your-project-3-stack-here |
 
