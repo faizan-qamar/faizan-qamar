@@ -87,7 +87,7 @@ While my primary interest is **Backend Development**, I also work with Frontend 
 
 | Project | Description | Stack |
 |---|---|---|
-| [LMS-SYSTEM](https://github.com/faizan-qamar/lms-system) | backend of lms-system |nest.js,mongodb|
+| [LMS-SYSTEM](https://github.com/faizan-qamar/lms-system) | Backend for a Learning Management System with user authentication and course management |NestJS, MongoDB, Mongoose, JWT, bcrypt|
 | [🔧 your-project-2](your-project-2-repo-link-here) | your-project-2-description-here | your-project-2-stack-here |
 | [🔧 your-project-3](your-project-3-repo-link-here) | your-project-3-description-here | your-project-3-stack-here |
 
