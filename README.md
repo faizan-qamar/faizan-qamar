@@ -64,7 +64,8 @@ While my primary interest is **Backend Development**, I also work with Frontend 
     <td><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
