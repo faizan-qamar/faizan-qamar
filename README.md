@@ -88,8 +88,8 @@ While my primary interest is **Backend Development**, I also work with Frontend 
 | Project | Description | Stack |
 |---|---|---|
 | [LMS-SYSTEM](https://github.com/faizan-qamar/lms-system) | Backend for a Learning Management System with user authentication and course management |NestJS, MongoDB, Mongoose, JWT, bcrypt|
-| [🔧 your-project-2](your-project-2-repo-link-here) | your-project-2-description-here | your-project-2-stack-here |
-| [🔧 your-project-3](your-project-3-repo-link-here) | your-project-3-description-here | your-project-3-stack-here |
+| [HOSPITAL-MANAGEMENT-SYSTEM](https://github.com/faizan-qamar/hospital-management-system) | Developed a hospital management backend with user/patient management, medicine management, prescriptions, sales, authentication, CRUD operations, password hashing, JWT authentication, and MongoDB database integration. Implemented module relationships and tested REST APIs using Postman.| your-project-2-stack-here |
+| [🔧 your-project-3](your-project-3-repo-link-here) | your-project-3-description-here | NestJS, MongoDB, Mongoose, JWT, bcrypt |
 
 > 🚧 This section will be updated as I continue building and uploading my projects.
 
