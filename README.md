@@ -71,11 +71,12 @@ While my primary interest is **Backend Development**, I also work with Frontend 
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
     </td>
   </tr>
 </table>
