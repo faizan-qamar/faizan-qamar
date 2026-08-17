@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizan--qamar.github.io-000000?style=flat&logo=github&logoColor=white)](https://faizan-qamar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--profile--here-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-profile-link-here)
-[![Email](https://img.shields.io/badge/Email-your--email--here-D14836?style=flat&logo=gmail&logoColor=white)](faizanqamar667@gmail.com)
+[![Email](https://img.shields.io/badge/faizanqamar667@gmail.comD14836?style=flat&logo=gmail&logoColor=white)](faizanqamar667@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Collaborate-darkgreen?style=flat)]()
 
 </div>
