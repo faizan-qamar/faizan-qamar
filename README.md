@@ -95,21 +95,7 @@ While my primary interest is **Backend Development**, I also work with Frontend 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username-here&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Achievements
-
-- 📜 your-achievement-1-here
-- 📜 your-achievement-2-here
-- 📜 your-certification-here
-
----
 
 <div align="center">
 
