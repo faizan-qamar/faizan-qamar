@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Software Engineering student at **Iqra University Islamabad**, currently working as a **Backend Development Intern at CitrusBits**.
+Software Engineering student at **Iqra University Islamabad**.
 
 I enjoy **solving real-world problems, building REST APIs, and continuously learning new technologies**. </br>
 While my primary interest is **Backend Development**, I also work with Frontend technologies and contribute to Full Stack projects.
