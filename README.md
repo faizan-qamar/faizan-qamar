@@ -1,7 +1,7 @@
 <div align="center">
 
 # Faizan Qamar
-### Backend Development Intern at CitrusBits
+### Backend Development 
 ### Software Engineering Student @ Iqra University Islamabad
 
 *A backend dev learning to build scalable, secure systems :)*
